@@ -108,6 +108,8 @@ export default class Content {
         // megold.sorok.forEach(x => {
         //     res.write(`${x}`);
         // });
+
+        res.write("🤯");
         // <---- Fejezd be a kódolást
 
         res.write("</pre></form>");
